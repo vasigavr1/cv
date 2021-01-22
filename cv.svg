@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="cv.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    version="1.1"
    id="svg2"
    viewBox="0 0 744.09448819 1052.3622047"
@@ -182,16 +182,16 @@
      inkscape:document-rotation="0"
      showguides="false"
      inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="67"
-     inkscape:window-height="1176"
-     inkscape:window-width="1853"
+     inkscape:window-y="27"
+     inkscape:window-x="72"
+     inkscape:window-height="1136"
+     inkscape:window-width="1848"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="395.61649"
-     inkscape:cx="2117.3725"
-     inkscape:zoom="0.175"
+     inkscape:cy="274.04633"
+     inkscape:cx="413.30065"
+     inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -206,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -216,21 +216,21 @@
      inkscape:label="Layer 1">
     <text
        id="text12786-6"
-       y="746.83636"
+       y="773.08636"
        x="141.67703"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan12802-8"
          style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
-         y="746.83636"
+         y="773.08636"
          x="141.67703"
          sodipodi:role="line">Lazy Release Persistency</tspan><tspan
          id="tspan3406"
          style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.25"
-         y="764.02386"
+         y="790.27386"
          x="141.67703"
          sodipodi:role="line">M. Dananjaya, <tspan
-   style="font-weight:bold;font-style:normal"
+   style="font-style:normal;font-weight:bold"
    id="tspan12790-9">V. Gavrielatos</tspan>, A. Joshi, V. Nagarajan. </tspan></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -243,8 +243,7 @@
            width="35"
            id="rect10597" /></flowRegion><flowPara
          style="font-size:25px;line-height:1.25"
-         id="flowPara10599">2015</flowPara></flowRoot>
-    <flowRoot
+         id="flowPara10599">2015</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12390"
        xml:space="preserve"><flowRegion
@@ -255,20 +254,19 @@
            width="216.07144"
            id="rect12394" /></flowRegion><flowPara
          style="font-size:15px;line-height:1.25"
-         id="flowPara12398"> </flowPara></flowRoot>
-    <text
+         id="flowPara12398"> </flowPara></flowRoot>    <text
        id="text12615"
-       y="635.01691"
+       y="696.89191"
        x="89.90358"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:15px;line-height:1.25"
-         y="635.01691"
+         y="696.89191"
          x="89.90358"
          id="tspan12617"
          sodipodi:role="line"> </tspan></text>
     <flowRoot
-       transform="translate(0,15)"
+       transform="translate(0,86.25)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12664"
        xml:space="preserve"><flowRegion
@@ -279,9 +277,8 @@
            width="149.50258"
            id="rect12668" /></flowRegion><flowPara
          style="font-size:15px;line-height:1.25"
-         id="flowPara12670"> </flowPara></flowRoot>
-    <flowRoot
-       transform="translate(0,15)"
+         id="flowPara12670"> </flowPara></flowRoot>    <flowRoot
+       transform="translate(0,86.25)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12703"
        xml:space="preserve"><flowRegion
@@ -292,8 +289,7 @@
            width="66.670067"
            id="rect12707" /></flowRegion><flowPara
          style="font-size:15px;line-height:1.25"
-         id="flowPara12709"> </flowPara></flowRoot>
-    <g
+         id="flowPara12709"> </flowPara></flowRoot>    <g
        transform="translate(951.5637,8.0812204)"
        id="g15449">
       <path
@@ -1186,33 +1182,33 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="141.42557"
-       y="631.86749"
+       y="896.24261"
        id="text12337-6"><tspan
          id="tspan3379"
          sodipodi:role="line"
          x="141.42557"
-         y="631.86749"
+         y="896.24261"
          style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25">Scale-out ccNUMA: exploiting skew with strongly consistent caching</tspan><tspan
          id="tspan3383"
          sodipodi:role="line"
          x="141.42557"
-         y="649.05499"
+         y="913.43011"
          style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.25"><tspan
    id="tspan3385"
-   style="font-weight:bold;font-style:normal">V. Gavrielatos</tspan>, A. Katsarakis, A. Joshi, N. Oswald, B. Grot, V. Nagarajan. </tspan><tspan
+   style="font-style:normal;font-weight:bold">V. Gavrielatos</tspan>, A. Katsarakis, A. Joshi, N. Oswald, B. Grot, V. Nagarajan. </tspan><tspan
          sodipodi:role="line"
          x="141.42557"
-         y="657.19415"
+         y="921.56927"
          style="font-size:13.75px;line-height:1.25"
          id="tspan12359-5" /></text>
     <text
        id="text12711-4"
-       y="640.00653"
+       y="904.38159"
        x="37.940994"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:12.5px;line-height:1.25"
-         y="640.00653"
+         y="904.38159"
          x="37.940994"
          id="tspan12713-7"
          sodipodi:role="line">Eurosys '18</tspan></text>
@@ -1220,92 +1216,100 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="74.56514"
-       y="806.14319"
+       y="704.92737"
        id="text12739-5"><tspan
          sodipodi:role="line"
          id="tspan12741-6"
          x="74.56514"
-         y="806.14319"
+         y="708.04456"
          style="font-size:12.5px;line-height:1.25;text-align:center;text-anchor:middle" /><tspan
          id="tspan12743-9"
          sodipodi:role="line"
          x="74.56514"
-         y="821.76819"
+         y="715.98694"
          style="font-size:12.5px;line-height:1.25;text-align:center;text-anchor:middle">ASPLOS '20</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="142.77811"
-       y="803.82385"
+       y="689.44885"
        id="text12753-3"><tspan
          sodipodi:role="line"
          x="142.77811"
-         y="803.82385"
+         y="689.44885"
          style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
          id="tspan12755-7">Hermes: Fast and Reliable Data Replication with Linearizability</tspan><tspan
          id="tspan3411"
          sodipodi:role="line"
          x="142.77811"
-         y="821.01135"
+         y="706.63635"
          style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.25">A. Katsarakis, <tspan
    id="tspan12773-4"
-   style="font-weight:bold;font-style:normal">V. Gavrielatos</tspan>, A. Joshi, S. Katebzadeh, B. Grot, V. Nagarajan,</tspan><tspan
+   style="font-style:normal;font-weight:bold">V. Gavrielatos</tspan>, A. Joshi, S. Katebzadeh, B. Grot, V. Nagarajan,</tspan><tspan
          sodipodi:role="line"
          x="142.77811"
-         y="838.19885"
-         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
-         id="tspan12767-4"><tspan
-   id="tspan3426"
-   style="font-style:normal">A. Dragojevic.</tspan> </tspan></text>
+         y="723.82385"
+         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.25"
+         id="tspan12767-4">A. Dragojevic.</tspan><tspan
+         sodipodi:role="line"
+         x="142.77811"
+         y="741.01135"
+         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25;fill:#c90000;fill-opacity:1"
+         id="tspan1527">IEEE MICRO Top Picks Honourable Mention </tspan></text>
     <text
        id="text12679-4"
-       y="691.1615"
+       y="824.2865"
        x="141.48235"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan3392"
          style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
-         y="691.1615"
+         y="824.2865"
          x="141.48235"
          sodipodi:role="line">Kite: Efficient and Available Release Consistency for the Datacenter</tspan><tspan
          id="tspan3398"
-         style="font-size:13.75px;line-height:1.25"
-         y="708.349"
+         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
+         y="841.474"
          x="141.48235"
          sodipodi:role="line"><tspan
-   id="tspan3400"
-   style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"><tspan
    id="tspan3402"
-   style="font-weight:bold">V. Gavrielatos</tspan>, A. Katsarakis, V. Nagarajan, B. Grot, A. Joshi. </tspan> </tspan><tspan
+   style="font-weight:bold">V. Gavrielatos</tspan>, A. Katsarakis, V. Nagarajan, B. Grot, A. Joshi.</tspan><tspan
+         style="font-size:13.75px;line-height:1.25"
+         y="858.6615"
+         x="141.48235"
+         sodipodi:role="line"
+         id="tspan1523"><tspan
+   id="tspan1554"
+   style="font-size:13.75px;line-height:1.25;fill:#c90000;fill-opacity:1">Best paper nominee</tspan> </tspan><tspan
          id="tspan12691-8"
          style="font-size:13.75px;line-height:1.25"
-         y="716.48816"
+         y="866.80066"
          x="141.48235"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="74.000565"
-       y="700.51208"
+       y="842.23083"
        id="text12715-4"><tspan
          id="tspan12719-1"
          sodipodi:role="line"
          x="74.000565"
-         y="700.51208"
+         y="842.23083"
          style="font-size:12.5px;line-height:1.25;text-align:center;text-anchor:middle">PPoPP '20</tspan></text>
     <text
        id="text12733-9"
-       y="740.56195"
+       y="766.81195"
        x="74.56514"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:12.5px;line-height:1.25;text-align:center;text-anchor:middle"
-         y="740.56195"
+         y="769.92914"
          x="74.56514"
          id="tspan12735-2"
          sodipodi:role="line" /><tspan
          style="font-size:12.5px;line-height:1.25;text-align:center;text-anchor:middle"
-         y="756.18695"
+         y="777.87152"
          x="74.56514"
          sodipodi:role="line"
          id="tspan12737-0">ASPLOS '20</tspan></text>
@@ -1395,30 +1399,30 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path13202-1"
-       d="M 131.27917,609.633 V 851.77559"
+       d="m 131.27917,603.20443 v 329.8658"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 733.93877,663.86401 H 13.04821"
+       d="M 733.93877,751.98901 H 13.04821"
        id="path13204-0"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path13263-6"
-       d="M 733.93877,723.86401 H 13.04821"
+       d="M 733.93877,802.61401 H 13.04821"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 733.93877,852.73901 H 13.04821"
+       d="M 733.93877,933.36401 H 13.04821"
        id="path13265-1"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path13271-4"
-       d="M 733.93877,779.86401 H 13.04821"
+       d="M 733.93877,867.98901 H 13.04821"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
@@ -1511,7 +1515,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3198"
-       d="M 733.93877,607.11401 H 13.04821"
+       d="M 733.93877,668.98901 H 13.04821"
        style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <g
@@ -1661,5 +1665,55 @@
            y="708.64789"
            style="font-size:11.25px;line-height:1.25;fill:#2a7fff">github-link</tspan></text>
     </a>
+    <text
+       id="text1538"
+       y="624.36749"
+       x="141.42557"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
+         y="624.36749"
+         x="141.42557"
+         sodipodi:role="line"
+         id="tspan1544">Odyssey: The Impact of Modern Hardware on Strongly-Consistent </tspan><tspan
+         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
+         y="641.55499"
+         x="141.42557"
+         sodipodi:role="line"
+         id="tspan1548">Replication Protocols. </tspan><tspan
+         style="font-style:italic;font-weight:normal;font-size:13.75px;line-height:1.25"
+         y="649.69415"
+         x="141.42557"
+         sodipodi:role="line"
+         id="tspan1540" /><tspan
+         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.25"
+         y="658.74249"
+         x="141.42557"
+         sodipodi:role="line"
+         id="tspan1534"><tspan
+   style="font-style:normal;font-weight:bold"
+   id="tspan1532">V. Gavrielatos</tspan>, A. Katsarakis, V. Nagarajan. </tspan><tspan
+         id="tspan1536"
+         style="font-size:13.75px;line-height:1.25"
+         y="666.88165"
+         x="141.42557"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.940994"
+       y="641.10028"
+       id="text1552"><tspan
+         sodipodi:role="line"
+         id="tspan1550"
+         x="37.940994"
+         y="641.10028"
+         style="font-size:12.5px;line-height:1.25">Eurosys '21</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1556"
+       d="M 733.93877,603.36401 H 13.04821"
+       style="fill:none;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
