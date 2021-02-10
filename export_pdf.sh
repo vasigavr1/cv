@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-rsvg-convert -f pdf -o cv-vg-2021.pdf cv.svg
+NAME='cv-vg-2021.pdf'
+rsvg-convert -f pdf -o "$NAME" cv.svg
+xdg-open "$NAME"
 if [ "$#" -eq  "0" ]
    then
      echo "Exported pdf, but am not pushing to git"
