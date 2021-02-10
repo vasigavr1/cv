@@ -268,9 +268,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="650.60748"
-     inkscape:cx="95.989589"
-     inkscape:zoom="5.6568542"
+     inkscape:cy="484.84351"
+     inkscape:cx="465.22052"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -285,7 +285,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2628,7 +2628,7 @@
          y="726.57404"
          x="327.13104"
          sodipodi:role="line"
-         id="tspan1875">  language-level memory models to ensure a consistent cut of in the NVM after a crash</tspan><tspan
+         id="tspan1875">  language-level memory models to ensure a consistent cut in the NVM after a crash</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:Rajdhani;-inkscape-font-specification:Rajdhani"
          y="740.63654"
          x="327.13104"
@@ -3085,7 +3085,7 @@
            y="390.40701"
            x="238.37572"
            id="tspan1979"
-           sodipodi:role="line">DUTH university</tspan></text>
+           sodipodi:role="line">DUTH University</tspan></text>
     </g>
     <text
        id="text10668-1-2"
